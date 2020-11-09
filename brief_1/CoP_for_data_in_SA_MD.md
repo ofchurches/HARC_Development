@@ -10,6 +10,7 @@ A Community of Practice for Data Professionals: Brief 1
     -   [Access to resources and tools](#access-to-resources-and-tools)
     -   [Formal training](#formal-training)
     -   [Secondments](#secondments)
+    -   [Hiring practices](#hiring-practices)
 -   [Common elements](#common-elements)
     -   [The right people](#the-right-people)
     -   [Events need to be regular](#events-need-to-be-regular)
@@ -91,6 +92,11 @@ Secondments
 -----------
 
 Hosting experts from industry and academia within the government system for a period of time and sending government employees to work in industry and academia on the condition of their return would help foster relationships and build skills.
+
+Hiring practices
+----------------
+
+Within the contemporary software and data analytics industry it is common to recruit through the based on an applicant's engagmenent in the [open source programming community](https://www.socialtalent.com/blog/recruitment/source-amazing-developers-nobody-else-can-find) including their GitHub profile or history of stack overflow answers. Following the recruitment stage it is also common to have a selection process that includes a [code intervew](https://www.tutorialspoint.com/r/r_interview_questions.htm). The health system in South Australia could provide similar practices.
 
 To be effective in reaching the system goals, each of these avenues would need to be supported with some common elements.
 
