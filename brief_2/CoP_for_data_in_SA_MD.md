@@ -1,4 +1,4 @@
-A Community of Practice for Data Professionals: Brief 1
+A Community of Practice for Data Professionals: Brief 2
 ================
 
 -   [What do we need?](#what-do-we-need)
@@ -24,7 +24,7 @@ A Community of Practice for Data Professionals: Brief 1
 What do we need?
 ================
 
-What we need are systems that promote the continuous development of data skills by data professionals and the continuous promotion of these skills throughout the health system and the broader health analytics profession. This amounts to creating a culture that values data skills and expertise. This paper details the structures that are currently in place and opportunities for layering additional structures that will foster this goal.
+What we need are systems that promote the continuous development of data skills by data professionals and the continuous promotion of these skills throughout the health system and the broader health analytic profession. This amounts to creating a culture that values data skills and expertise. This paper details the structures that are currently in place and opportunities for layering additional structures that will foster this goal.
 
 Background
 ==========
@@ -63,23 +63,23 @@ A suitable venue has the following characteristics:
 
 -   Central location to lower the friction associated with attending.
 
--   No usage cost would be prefered.
+-   No usage cost would be preferred.
 
--   A degree of grandure and solemnity would add gravitas to the event.
+-   A degree of grandeur and solemnity would add gravitas to the event.
 
-One venue that would fulfill these characteristis is the Minister's Board Room at Hindmarsh Square.
+One venue that would fulfill these characteristics is the Minister's Board Room at Hindmarsh Square.
 
 #### Frequency
 
-Too often and it would feel like a burdon but too rare and it would be forgotten. To this end, every second week or every month would be prefered.
+Too often and it would feel like a burden but too rare and it would be forgotten. To this end, every second week or every month would be preferred.
 
 #### Cost
 
-To some extent it would be desirable for the even to stand on it merits as a place to hear and debate the latest ideas in health informatics rather than a palce to nibble food and drinks. Hence, the event could prosper with a smaller budget.
+To some extent it would be desirable for the even to stand on it merits as a place to hear and debate the latest ideas in health bioinformatics rather than a place to nibble food and drinks. Hence, the event could prosper with a smaller budget.
 
 #### Invitation list
 
-Lukah Dykes and Owen Churches have begus drafting a list of potential speakers and people to invite. This will be updated here.
+Lukah Dykes and Owen Churches have begun drafting a list of potential speakers and people to invite. This will be updated here.
 
 Expert reading group
 --------------------
@@ -88,8 +88,8 @@ A reading of a serious text on an aspect of data analysis, software design, chan
 
 In this space already:
 
--   Owen Churches convenes a monthly bookclub on [AI ethics](https://github.com/ofchurches/AI_ethics_bookclub/wiki).
--   The [NHS](https://nhsrcommunity.com/blog/nhs-r-book-club/) runs a bookclub.
+-   Owen Churches convenes a monthly book club on [AI ethics](https://github.com/ofchurches/AI_ethics_bookclub/wiki).
+-   The [NHS](https://nhsrcommunity.com/blog/nhs-r-book-club/) runs a book club.
 
 ### Specifics
 
@@ -99,7 +99,7 @@ Both the NHS group and the AIEthics group meet online and this works particularl
 
 #### Texts
 
-What we read would be a reflection of the aims and the capacity of the group. Professor Mark Mackay has suggested that this be a vehicle to immerse people who are not currently experts in a more quantitative way of thinking. This would be in keeping with the NHM bookclub. Hence, books that could be read could include:
+What we read would be a reflection of the aims and the capacity of the group. Professor Mark Mackay has suggested that this be a vehicle to immerse people who are not currently experts in a more quantitative way of thinking. This would be in keeping with the NHM book club. Hence, books that could be read could include:
 
 <table style="width:93%;">
 <colgroup>
@@ -168,7 +168,7 @@ Testing and developing analytical and programming skills individually or as a gr
 In this space already:
 
 -   Owen Churches coordinates the [PublicSectR](http://publicsectradelaide.rbind.io/) monthly meetup which includes a sprint through that week’s TidyTuesday dataset.
--   Adeliade University's statistics specialisation runs a GentleR group each week for people to bring in their R related problems.
+-   Adelaide University's statistics specialisation runs a GentleR group each week for people to bring in their R related problems.
 -   The [CAIN](https://www.cain.science/) at UniSA runs a weekly R group focused around reading the [R4DS](https://r4ds.had.co.nz/) book.
 
 ### Specifics
@@ -214,11 +214,11 @@ To some extent, formal training is helpful. In this space already:
 
 ### Specifics
 
-This will be percieved by some as an indlugenece or a boondoggle for some to avoid doing work. However, structures should be put in place to make a clear return on investement for the health system in South Australia. These could include:
+This will be perceived by some as an indulgence or a boondoggle for some to avoid doing work. However, structures should be put in place to make a clear return on investment for the health system in South Australia. These could include:
 
 -   If the exams are not taken the learner could be asked to return the money.
 
--   THe choice of training could be decided by managers with experience of each learners skill base and the needs of the health system.
+-   The choice of training could be decided by managers with experience of each learners skill base and the needs of the health system.
 
 Secondments
 -----------
@@ -227,15 +227,15 @@ Hosting experts from industry and academia within the government system for a pe
 
 ### Specifics
 
-This would require strong structres to ensure that measurable outcomes were attained. These could include:
+This would require strong structures to ensure that measurable outcomes were attained. These could include:
 
--   A process for diseminating the results of the project at its conclusion.
+-   A process for disseminating the results of the project at its conclusion.
 -   A competitive entry program based on merit of person and project
 
 Hiring practices
 ----------------
 
-Within the contemporary software and data analytics industry it is common to recruit through the based on an applicant's engagmenent in the [open source programming community](https://www.socialtalent.com/blog/recruitment/source-amazing-developers-nobody-else-can-find) including their GitHub profile or history of stack overflow answers. Following the recruitment stage it is also common to have a selection process that includes a [code intervew](https://www.tutorialspoint.com/r/r_interview_questions.htm). The health system in South Australia could provide similar practices.
+Within the contemporary software and data analytics industry it is common to recruit through the based on an applicant's engagement in the [open source programming community](https://www.socialtalent.com/blog/recruitment/source-amazing-developers-nobody-else-can-find) including their GitHub profile or history of stack overflow answers. Following the recruitment stage it is also common to have a selection process that includes a [code intervew](https://www.tutorialspoint.com/r/r_interview_questions.htm). The health system in South Australia could provide similar practices.
 
 To be effective in reaching the system goals, each of these avenues would need to be supported with some common elements.
 
