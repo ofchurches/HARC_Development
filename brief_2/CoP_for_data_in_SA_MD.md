@@ -15,7 +15,6 @@ A Community of Practice for Data Professionals: Brief 2
     -   [Overlap](#overlap)
     -   [Return on investmement](#return-on-investmement)
     -   [The right people](#the-right-people)
-    -   [Events need to be regular](#events-need-to-be-regular)
     -   [Managers need to help](#managers-need-to-help)
     -   [Work needs to be valued](#work-needs-to-be-valued)
     -   [Code of conduct](#code-of-conduct)
@@ -331,11 +330,6 @@ The right people
 
 Many of the people who could most benefit from these avenues may not readily realise the benefit to them as individuals that would come from their participation. It may help to fold these events into professional development.
 
-Events need to be regular
--------------------------
-
-The particular periodicity of different avenues could be negotiated but they would all need to be regular to make their participation a habit rather than a choice.
-
 Managers need to help
 ---------------------
 
@@ -345,6 +339,18 @@ Work needs to be valued
 -----------------------
 
 The involvement of everyone in these avenues would have to occur in paid work time. It also means that there would have to be a perception that being part of these activities would realistically lead to better individual outcomes such as promotion.
+
+From all of this, one feature that could (and should) become valued is employees [contributing to open source](https://opensource.com/business/13/2/why-company-contribute-open-source) technology. The benefits to the organisation of having employees contribute to open source technology include:
+
+-   Additional on the job training for staff.
+
+-   Feedback on the work of our staff from the best technology developers inthe world.
+
+-   Employees pushed to create better technology.
+
+-   Credibility of the South Austraian health system as a serious leader in health analytics.
+
+To these ends, staff should be rewarded for developing or contributing to technology that others can use. Some of this technology, such as corporate [ggplot themes](https://rpubs.com/mclaire19/ggplot2-custom-themes) would be for others within the SA Health system to use. Others, such as new ways of [plotting network diagrams](https://github.com/thomasp85/tidygraph/issues/128) would be of benefit to others outside the imediate system.
 
 Code of conduct
 ---------------
