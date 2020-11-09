@@ -256,13 +256,13 @@ Return on investmement
 
 The avenues above include notes on their cost but this should be viewed in the context of the returns they will provide to the health system in South Australia from savings and increased productivity. Potential savings include the budget that is currently spent on consultants for data related products and services. Some procurmement that could be avoided by having staff capable of achieving these ends include:
 
-<table style="width:100%;">
+<table>
 <colgroup>
-<col width="18%" />
-<col width="21%" />
-<col width="18%" />
-<col width="21%" />
-<col width="21%" />
+<col width="17%" />
+<col width="20%" />
+<col width="17%" />
+<col width="20%" />
+<col width="24%" />
 </colgroup>
 <thead>
 <tr class="header">
