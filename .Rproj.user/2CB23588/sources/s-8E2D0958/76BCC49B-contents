@@ -161,6 +161,32 @@ To be effective in reaching the system goals, each of these avenues would need t
 
 # Common elements
 
+## Overlap
+Idealy, the different avenues described above will feed each other and expand the total pool of people engaged rather than canabilising the same pool. In particular, the first three avenues which all entail regular events could overlap in the following manner:
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE, results='hide'}
+library(VennDiagram)
+
+grid.newpage()
+draw.triple.venn(area1 = 80, area2 = 15, area3 = 30, n12 = 11, n23 = 4, n13 = 15, 
+    n123 = 1, category = c("Colloquia", "Reading group", "Technical group"), lty = "blank", 
+    fill = c("skyblue", "pink1", "mediumorchid"))
+```
+
+## Return on investmement
+The avenues above include notes on their cost but this should be viewed in the context of the returns they will provide to the health system in South Australia from savings and increased productivity. Potential savings include the budget that is currently spent on consultants for data related products and services. Some procurmement that could be avoided by having staff capable of achieving these ends include:
+
+| Reference |	Contract Title	| Start Date	| Expiry Date	| Total Cost |
+| ------------- |---------------| ------------- |---------------| ---------------|
+SAH760 | Data refresh of My Home Hospital Business Case - Contract ID SAH2020-1198 | 03/08/2020	| 07/09/2020	| $ 31,720.00 |
+SAH701	| SAHMRI Consultant Engagement - Health and Aged Care Interface Data Project Contract ID SAH2020-533	| 08/05/2020	| 23/10/2020	| $ 87,625.00 |
+SAH746	| Think Research's Visit to Central Adelaide LHN 	| 02/12/2019	| 02/01/2020	| $ 60,000.00
+SAH680	| Evaluating the health transform, inspire, engage and redesign leadership and management training program	| 01/05/2019	| 31/12/2020	 | $ 56,184.00 |
+DH042264	| Data collection services for population health surveillance surveys  Contract ID SAH2017-1069	| 01/05/2018	| 30/04/2022	| $ 3,404,573.00 |
+DH040717	| Health Activity Modelling and Forecasting Services Contract ID SAH2016-2026	| 20/02/2018	| 19/02/2022	| $ 686,400.00 |
+ DH026484	| Data Management System. Contract ID: SAH2014-983	| 01/04/2015	| 30/03/2022	| $ 774,213.00 |
+
+
 ##	The right people
 Many of the people who could most benefit from these avenues may not readily  realise the benefit to them as individuals that would come from their participation. It may help to fold these events into professional development.
 

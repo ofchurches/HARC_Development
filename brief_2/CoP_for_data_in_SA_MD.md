@@ -12,6 +12,8 @@ A Community of Practice for Data Professionals: Brief 2
     -   [Secondments](#secondments)
     -   [Hiring practices](#hiring-practices)
 -   [Common elements](#common-elements)
+    -   [Overlap](#overlap)
+    -   [Return on investmement](#return-on-investmement)
     -   [The right people](#the-right-people)
     -   [Events need to be regular](#events-need-to-be-regular)
     -   [Managers need to help](#managers-need-to-help)
@@ -241,6 +243,88 @@ To be effective in reaching the system goals, each of these avenues would need t
 
 Common elements
 ===============
+
+Overlap
+-------
+
+Idealy, the different avenues described above will feed each other and expand the total pool of people engaged rather than canabilising the same pool. In particular, the first three avenues which all entail regular events could overlap in the following manner:
+
+![](CoP_for_data_in_SA_MD_files/figure-markdown_github/unnamed-chunk-1-1.png)
+
+Return on investmement
+----------------------
+
+The avenues above include notes on their cost but this should be viewed in the context of the returns they will provide to the health system in South Australia from savings and increased productivity. Potential savings include the budget that is currently spent on consultants for data related products and services. Some procurmement that could be avoided by having staff capable of achieving these ends include:
+
+<table style="width:100%;">
+<colgroup>
+<col width="18%" />
+<col width="21%" />
+<col width="18%" />
+<col width="21%" />
+<col width="21%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Reference</th>
+<th>Contract Title</th>
+<th>Start Date</th>
+<th>Expiry Date</th>
+<th>Total Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>SAH760</td>
+<td>Data refresh of My Home Hospital Business Case - Contract ID SAH2020-1198</td>
+<td>03/08/2020</td>
+<td>07/09/2020</td>
+<td>$ 31,720.00</td>
+</tr>
+<tr class="even">
+<td>SAH701</td>
+<td>SAHMRI Consultant Engagement - Health and Aged Care Interface Data Project Contract ID SAH2020-533</td>
+<td>08/05/2020</td>
+<td>23/10/2020</td>
+<td>$ 87,625.00</td>
+</tr>
+<tr class="odd">
+<td>SAH746</td>
+<td>Think Research's Visit to Central Adelaide LHN</td>
+<td>02/12/2019</td>
+<td>02/01/2020</td>
+<td>$ 60,000.00</td>
+</tr>
+<tr class="even">
+<td>SAH680</td>
+<td>Evaluating the health transform, inspire, engage and redesign leadership and management training program</td>
+<td>01/05/2019</td>
+<td>31/12/2020</td>
+<td>$ 56,184.00</td>
+</tr>
+<tr class="odd">
+<td>DH042264</td>
+<td>Data collection services for population health surveillance surveys Contract ID SAH2017-1069</td>
+<td>01/05/2018</td>
+<td>30/04/2022</td>
+<td>$ 3,404,573.00</td>
+</tr>
+<tr class="even">
+<td>DH040717</td>
+<td>Health Activity Modelling and Forecasting Services Contract ID SAH2016-2026</td>
+<td>20/02/2018</td>
+<td>19/02/2022</td>
+<td>$ 686,400.00</td>
+</tr>
+<tr class="odd">
+<td>DH026484</td>
+<td>Data Management System. Contract ID: SAH2014-983</td>
+<td>01/04/2015</td>
+<td>30/03/2022</td>
+<td>$ 774,213.00</td>
+</tr>
+</tbody>
+</table>
 
 The right people
 ----------------
