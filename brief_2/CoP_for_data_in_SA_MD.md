@@ -194,7 +194,7 @@ Two potential sub-avenues exist:
 3.  [Mastering SHiny](https://mastering-shiny.org/)
 4.  [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 
--   A mini-hackathon where a group designs together and creates a visulaisation and analytic product based on a novel data set.
+-   Greer Humphrey and Owen Churches have begun work on a mini-hackathon where a group designs together and creates a visulaisation and analytic product based on a novel data set.
 
 #### Frequency
 
