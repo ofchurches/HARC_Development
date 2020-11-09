@@ -159,7 +159,7 @@ What we read would be a reflection of the aims and the capacity of the group. Pr
 
 #### Cost
 
-This is strongly determined by the number of people in the group. But with a budget of 50 dollars per book and a group of 10 readers this would cost 500 dollars.
+This is strongly determined by the number of people in the group. But with a budget of 50 dollars per book and a group of 10 readers this would cost 500 dollars per book.
 
 Technical skills practice
 -------------------------
