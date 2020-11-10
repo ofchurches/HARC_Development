@@ -373,7 +373,7 @@ A hallmark of utilising technology efficiently is to reduce duplication of effor
 Code of conduct
 ---------------
 
-It is imperative for communities of practice such as these to have well defined and agreed to codes of conduct. Tina Hardin in the CEIH has begun work on a CoC for this purpose.
+It is imperative for communities of practice such as these to have well defined and agreed to codes of conduct. Tina Hardin in the CEIH has begun work on a code of conduct for this purpose.
 
 Next steps
 ==========
