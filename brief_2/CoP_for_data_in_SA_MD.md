@@ -338,7 +338,11 @@ Participation would also have to be supported by managers who would have to ensu
 Work needs to be valued
 -----------------------
 
+### Why would anyone be involved?
+
 The involvement of everyone in these avenues would have to occur in paid work time. It also means that there would have to be a perception that being part of these activities would realistically lead to better individual outcomes such as promotion.
+
+### Open source
 
 From all of this, one feature that could (and should) become valued is employees [contributing to open source](https://opensource.com/business/13/2/why-company-contribute-open-source) technology. The benefits to the organisation of having employees contribute to open source technology include:
 
@@ -352,6 +356,8 @@ From all of this, one feature that could (and should) become valued is employees
 
 To these ends, staff should be rewarded for developing or contributing to technology that others can use. Some of this technology, such as corporate [ggplot themes](https://rpubs.com/mclaire19/ggplot2-custom-themes) would be for others within the SA Health system to use. Others, such as new ways of [plotting network diagrams](https://github.com/thomasp85/tidygraph/issues/128) would be of benefit to others outside the imediate system.
 
+### What the system gains
+
 The deficiancies of quantitative skills at the appropriate levels in the South Australian health system may be similar to those found in the Australian Public Service in the 2019 [review](https://pmc.gov.au/sites/default/files/publications/independent-review-aps.pdf) of the APS. Importantly, this review proposed the following:
 
 > **Recommendation 14**
@@ -359,6 +365,10 @@ The deficiancies of quantitative skills at the appropriate levels in the South A
 > Building data and digital skills. Establish a new APS digital and data profession or professions to ensure that the APS has the skills required to develop, build and maintain ICT systems that enable the Government to be easy to deal with.
 
 If implemented in the South Australia health system, this recommendation would have the result of data professionals being able to be promoted based on their data skills rather than their managerial skills. It would make the system more likely to retain and attract data professionals by making the system competitive with the private sector. And, it would incentivise data professionals to become better data professionals.
+
+### Enabling services
+
+A hallmark of utilising technology efficiently is to reduce duplication of effort. To help achieve this efficiency in the health system in South Australia, it would help to have some staff working on the enabling technology that would then be used by many others but would otherwise have to be built each time by a bunch of different agencies or individual analysts. For example, while it is important for individual projects to be provisioned with the data they need in a timely manner, it is also important to put resources into developing a system for data to be provided to all future projects that will help everyone. This could be a feature of a central enabling service.
 
 Code of conduct
 ---------------
