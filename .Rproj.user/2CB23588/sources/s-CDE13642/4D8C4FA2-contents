@@ -53,7 +53,7 @@ One venue that would fulfill these characteristics is the Minister's Board Room 
 Too often and it would feel like a burden but too rare and it would be forgotten. To this end, every second week or every month would be preferred.
 
 #### Cost
-To some extent it would be desirable for the even to stand on it merits as a place to hear and debate the latest ideas in health bioinformatics rather than a place to nibble food and drinks. Hence, the event could prosper with a smaller budget.
+To some extent it would be desirable for the even to stand on its merits as a place to hear and debate the latest ideas in health bioinformatics rather than a place to nibble food and drinks. Hence, the event could prosper with a smaller budget.
 
 
 #### Invitation list
@@ -70,7 +70,7 @@ In this space already:
 ### Specifics
 
 #### Venue
-Both the NHS group and the AIEthics group meet online and this works particularly well. It would help to use a wiki style collaboration medium for adding additional resources and a threaded communication platform such as Slack to maintain communication between meetings.
+Both the NHS group and the AI ethics group meet online and this works particularly well. It would help to use a wiki style collaboration medium for adding additional resources and a threaded communication platform such as Slack to maintain communication between meetings.
 
 #### Texts
 
@@ -79,12 +79,12 @@ What we read would be a reflection of the aims and the capacity of the group. Pr
 | Book          | Author        |
 | --------------------------------------- |--------------------------|
 | Calling Bullshit: The Art of Skepticism in a Data-Driven World | Carl T. Bergstrom Jevin D. West |
-| How To Make The World Add Up | Tim Hartford |
+| How To Make the World Add Up | Tim Hartford |
 | The Ostrich Paradox Why We Underprepare for Disasters | Robert Meyer and Howard Kunreuther |
 | The Art of Statistics: Learning from Data | David Spiegelhalter |
 | The Art of Logic in an Illogical World | Eugenia Cheng |
 | Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to Global Warming | Naomi Oreskes, Erik M. Conway |
-| The Signal And The Noise: The Art And Science Of Prediction | Nate Silver |
+| The Signal and the Noise: The Art and Science of Prediction | Nate Silver |
 | Standards: Recipes for Reality | Lawrence Busch |
 | The Sum of the People: How the Census Has Shaped Nations, from the Ancient World to the Modern Age | Andrew Whitby |
 | The Design Thinking Playbook: Mindful Digital Transformation of Teams, Products, Services, Businesses and Ecosystems| Michael Lewrick |
@@ -98,14 +98,14 @@ Testing and developing analytical and programming skills individually or as a gr
 
 In this space already:
 
-*	Owen Churches coordinates the [PublicSectR](http://publicsectradelaide.rbind.io/) monthly meetup which includes a sprint through that week’s TidyTuesday dataset.
+*	Owen Churches coordinates the [PublicSectR](http://publicsectradelaide.rbind.io/) monthly meetup which includes a sprint through that week’s [TidyTuesday](https://github.com/rfordatascience/tidytuesday) dataset.
 * Adelaide University's statistics specialisation runs a GentleR group each week for people to bring in their R related problems.
 * The [CAIN](https://www.cain.science/) at UniSA runs a weekly R group focused around reading the [R4DS](https://r4ds.had.co.nz/) book.
 
 ### Specifics
 
 #### Venue
-There are pros and cons to meeting online and in person. Online meetings reduce the friction of attending but in person meetings promote a stronger group identity and commitment to the process. To start with, the suggestion is that we meet in person at SAHMRI. If more people want to take part at different venues then we could have multiple locations.
+There are pros and cons to meeting online and in person. Online meetings reduce the friction of attending but in person meetings promote a stronger group identity and commitment to the process. To start with, the suggestion is that we meet in person at SAHMRI. If more people want to take part at different venues, then we could have multiple locations.
 
 #### Technology
 It would be fitting if the technology we used to work on this was itself a learning opportunity for those taking part and an example to others of what we can achieve. Hence the proposal is that we maintain a portfolio of our work in a [blogdown](https://bookdown.org/yihui/blogdown/) site with an associated GitHub repository.
@@ -133,9 +133,9 @@ To some extent, formal training is helpful.
 
 In this space already:
 
-*	The CEIH paid for a large number of data professionals in the the South Australia health system to undergo the [CHIA](https://www.healthinformaticscertification.com/) exam.
+*	The CEIH paid for a large number of data professionals in the South Australia health system to undergo the [CHIA](https://www.healthinformaticscertification.com/) exam.
 * The HARC pays for the Data Fellows to attend some training that is chosen by each fellow individually.
-*	There are numerous paid and free data skills courses available (eg. [Coursera](https://www.coursera.org/specializations/data-science-foundations-r)).
+*	There are numerous paid and free data skills courses available (e.g. [Coursera](https://www.coursera.org/specializations/data-science-foundations-r)).
 
 ### Specifics
 This will be perceived by some as an indulgence or a boondoggle for some to avoid doing work. However, structures should be put in place to make a clear return on investment for the health system in South Australia. These could include:
@@ -160,7 +160,7 @@ To be effective in reaching the system goals, each of these avenues would need t
 # Common elements
 
 ## Overlap
-Ideally, the different avenues described above will feed each other and expand the total pool of people engaged rather than canabilising the same pool. In particular, the first three avenues which all entail regular events could overlap in the following manner:
+Ideally, the different avenues described above will feed each other and expand the total pool of people engaged rather than cannibalizing the same pool. In particular, the first three avenues which all entail regular events could overlap in the following manner:
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE, results='hide'}
 library(VennDiagram)
@@ -253,7 +253,7 @@ read_meetings <- 11
 
 | Avenue |	Frequency	| Attendees	| Cost per meeting (not including staff time)	| Cost per year |
 | ------------- |---------------| ------------- |---------------| ------------------|
-| Colloqia | Monthly | `r colloquia_attendees` | $`r colloquia_attendees * colloquia_unit_cost`	| $`r colloquia_attendees * colloquia_unit_cost * colloquia_meetings` |
+| Colloquia | Monthly | `r colloquia_attendees` | $`r colloquia_attendees * colloquia_unit_cost`	| $`r colloquia_attendees * colloquia_unit_cost * colloquia_meetings` |
 | Technical skills | Weekly | `r tech_attendees` | $`r tech_attendees * tech_unit_cost`	| $`r tech_attendees * tech_unit_cost * tech_meetings` |
 | Reading group | Monthly | `r read_attendees` | $`r read_attendees * read_unit_cost`	| $`r read_attendees * read_unit_cost * read_meetings` |
 

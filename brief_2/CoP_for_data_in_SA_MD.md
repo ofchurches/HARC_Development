@@ -57,7 +57,7 @@ Too often and it would feel like a burden but too rare and it would be forgotten
 
 #### Cost
 
-To some extent it would be desirable for the even to stand on it merits as a place to hear and debate the latest ideas in health bioinformatics rather than a place to nibble food and drinks. Hence, the event could prosper with a smaller budget.
+To some extent it would be desirable for the even to stand on its merits as a place to hear and debate the latest ideas in health bioinformatics rather than a place to nibble food and drinks. Hence, the event could prosper with a smaller budget.
 
 #### Invitation list
 
@@ -77,7 +77,7 @@ In this space already:
 
 #### Venue
 
-Both the NHS group and the AIEthics group meet online and this works particularly well. It would help to use a wiki style collaboration medium for adding additional resources and a threaded communication platform such as Slack to maintain communication between meetings.
+Both the NHS group and the AI ethics group meet online and this works particularly well. It would help to use a wiki style collaboration medium for adding additional resources and a threaded communication platform such as Slack to maintain communication between meetings.
 
 #### Texts
 
@@ -100,7 +100,7 @@ What we read would be a reflection of the aims and the capacity of the group. Pr
 <td>Carl T. Bergstrom Jevin D. West</td>
 </tr>
 <tr class="even">
-<td>How To Make The World Add Up</td>
+<td>How To Make the World Add Up</td>
 <td>Tim Hartford</td>
 </tr>
 <tr class="odd">
@@ -120,7 +120,7 @@ What we read would be a reflection of the aims and the capacity of the group. Pr
 <td>Naomi Oreskes, Erik M. Conway</td>
 </tr>
 <tr class="odd">
-<td>The Signal And The Noise: The Art And Science Of Prediction</td>
+<td>The Signal and the Noise: The Art and Science of Prediction</td>
 <td>Nate Silver</td>
 </tr>
 <tr class="even">
@@ -153,7 +153,7 @@ Testing and developing analytical and programming skills individually or as a gr
 
 In this space already:
 
--   Owen Churches coordinates the [PublicSectR](http://publicsectradelaide.rbind.io/) monthly meetup which includes a sprint through that week’s TidyTuesday dataset.
+-   Owen Churches coordinates the [PublicSectR](http://publicsectradelaide.rbind.io/) monthly meetup which includes a sprint through that week’s [TidyTuesday](https://github.com/rfordatascience/tidytuesday) dataset.
 -   Adelaide University's statistics specialisation runs a GentleR group each week for people to bring in their R related problems.
 -   The [CAIN](https://www.cain.science/) at UniSA runs a weekly R group focused around reading the [R4DS](https://r4ds.had.co.nz/) book.
 
@@ -161,7 +161,7 @@ In this space already:
 
 #### Venue
 
-There are pros and cons to meeting online and in person. Online meetings reduce the friction of attending but in person meetings promote a stronger group identity and commitment to the process. To start with, the suggestion is that we meet in person at SAHMRI. If more people want to take part at different venues then we could have multiple locations.
+There are pros and cons to meeting online and in person. Online meetings reduce the friction of attending but in person meetings promote a stronger group identity and commitment to the process. To start with, the suggestion is that we meet in person at SAHMRI. If more people want to take part at different venues, then we could have multiple locations.
 
 #### Technology
 
@@ -196,9 +196,9 @@ To some extent, formal training is helpful.
 
 In this space already:
 
--   The CEIH paid for a large number of data professionals in the the South Australia health system to undergo the [CHIA](https://www.healthinformaticscertification.com/) exam.
+-   The CEIH paid for a large number of data professionals in the South Australia health system to undergo the [CHIA](https://www.healthinformaticscertification.com/) exam.
 -   The HARC pays for the Data Fellows to attend some training that is chosen by each fellow individually.
--   There are numerous paid and free data skills courses available (eg. [Coursera](https://www.coursera.org/specializations/data-science-foundations-r)).
+-   There are numerous paid and free data skills courses available (e.g. [Coursera](https://www.coursera.org/specializations/data-science-foundations-r)).
 
 ### Specifics
 
@@ -232,7 +232,7 @@ Common elements
 Overlap
 -------
 
-Ideally, the different avenues described above will feed each other and expand the total pool of people engaged rather than canabilising the same pool. In particular, the first three avenues which all entail regular events could overlap in the following manner:
+Ideally, the different avenues described above will feed each other and expand the total pool of people engaged rather than cannibalizing the same pool. In particular, the first three avenues which all entail regular events could overlap in the following manner:
 
 ![](CoP_for_data_in_SA_MD_files/figure-markdown_github/unnamed-chunk-1-1.png)
 
@@ -393,7 +393,7 @@ The starting configuration will be:
 </thead>
 <tbody>
 <tr class="odd">
-<td>Colloqia</td>
+<td>Colloquia</td>
 <td>Monthly</td>
 <td>50</td>
 <td>$100</td>
