@@ -1,0 +1,7 @@
+"0","draw.triple.venn(area1 = 50, area2 = 15, area3 = 20, n12 = 11, n23 = 4, n13 = 8, "
+"0","    n123 = 1, category = c(""Colloquia"", ""Reading group"", ""Technical group""), lty = ""blank"", "
+"0","    fill = c(""skyblue"", ""pink1"", ""mediumorchid""))"
+"1","(polygon[GRID.polygon.33], polygon[GRID.polygon.34], polygon[GRID.polygon.35], polygon[GRID.polygon.36], polygon[GRID.polygon.37], polygon[GRID.polygon.38], text[GRID.text.39], text[GRID.text.40], text[GRID.text.41], text[GRID.text.42], text[GRID.text.43], text[GRID.text.44], text[GRID.text.45], text[GRID.text.46], text[GRID.text.47], text[GRID.text.48])"
+"1"," "
+"1","
+"

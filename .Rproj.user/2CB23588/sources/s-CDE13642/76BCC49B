@@ -5,16 +5,17 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2661997136",
+    "hash" : "4023757408",
     "id" : "76BCC49B",
-    "lastKnownWriteTime" : 1604981899,
-    "last_content_update" : 1604981899410,
+    "lastKnownWriteTime" : 1605060694,
+    "last_content_update" : 1605060694047,
     "path" : "~/GitHub/HARC_Development/brief_2/CoP_for_data_in_SA_MD.Rmd",
     "project_path" : "brief_2/CoP_for_data_in_SA_MD.Rmd",
     "properties" : {
-        "cursorPosition" : "228,157",
-        "ignored_words" : "visualisation,CoP,McAlindon,Hindmarsh,Lukah,AIEthics,Mackay,Bergstrom,Jevin,Underprepare,Kunreuther,Spiegelhalter,Cheng,Oreskes,Whitby,Lewrick,analytical,TidyTuesday,dataset,Adeliade,specialisation,GentleR,UniSA,GitHub,hackathon,visulaisation,eg,analytics,realise,CoC,recognised,recognise,CoPs\n",
-        "scrollLine" : "221"
+        "cursorPosition" : "7,4",
+        "ignored_words" : "visualisation,CoP,McAlindon,Hindmarsh,Lukah,AIEthics,Mackay,Bergstrom,Jevin,Underprepare,Kunreuther,Spiegelhalter,Cheng,Oreskes,Whitby,Lewrick,analytical,TidyTuesday,dataset,Adeliade,specialisation,GentleR,UniSA,GitHub,hackathon,visulaisation,eg,analytics,realise,CoC,recognised,recognise,CoPs,canabilising,incentivise,utilising,colloquia,Colloqia\n",
+        "scrollLine" : "0",
+        "source_window_id" : "wp96hkqfv9a2p"
     },
     "relative_order" : 1,
     "source_on_save" : false,

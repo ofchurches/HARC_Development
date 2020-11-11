@@ -1,11 +1,14 @@
 ---
 title: "A Community of Practice for Data Professionals: Brief 2"
 output: 
-  github_document:
-    toc: true
-    toc_depth: 2
-  word_document:
-    reference_docx: HARC_style.docx
+    word_document:
+      toc: true
+      toc_depth: 2
+      reference_docx: HARC_style.docx
+    github_document:
+      toc: true
+      toc_depth: 2
+
 ---
 
 
@@ -93,7 +96,7 @@ What we read would be a reflection of the aims and the capacity of the group. Pr
 | The Design Thinking Playbook: Mindful Digital Transformation of Teams, Products, Services, Businesses and Ecosystems| Michael Lewrick |
 
 #### Cost
-This is strongly determined by the number of people in the group. But with a budget of 50 dollars per book and a group of 10 readers this would cost 500 dollars per book.
+We should budget on $50 per book but after this, this is a function of the number of people in the group.
 
 ##	Technical skills practice
 Testing and developing analytical and programming skills individually or as a group on public data sets that promote the quick exploration of public sharing or outcomes.
@@ -122,7 +125,7 @@ Two potential sub-avenues exist:
 3. [Mastering SHiny](https://mastering-shiny.org/)
 4. [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 
-* Greer Humphrey and Owen Churches have begun work on a mini-hackathon where a group designs together and creates a visulaisation and analytic product based on a novel data set.
+* Greer Humphrey and Owen Churches have begun work on a [TidyTuesday](https://github.com/rfordatascience/tidytuesday) group to design together and create a visulaisation and analytic product based on a novel data set each week.
 
 #### Frequency
 This group would benefit from meeting weekly.
@@ -132,9 +135,12 @@ Access to the latest journal articles to learn from and to use modern software d
 
 ##	Formal training
 To some extent, formal training is helpful.
+
 In this space already:
 
 *	The CEIH paid for a large number of data professionals in the the South Australia health system to undergo the [CHIA](https://www.healthinformaticscertification.com/) exam.
+
+* The HARC pays for the Data Fellows to attend some training that is chosen by each fellow individually.
 
 *	There are numerous paid and free data skills courses available (eg. [Coursera](https://www.coursera.org/specializations/data-science-foundations-r)).
 
@@ -143,7 +149,7 @@ This will be perceived by some as an indulgence or a boondoggle for some to avoi
 
 * If the exams are not taken the learner could be asked to return the money.
 
-* The choice of training could be decided by managers with experience of each learners skill base and the needs of the health system.
+* The choice of training could be decided by managers with experience of each learner's skill base and the needs of the health system.
 
 ##	Secondments
 Hosting experts from industry and academia within the government system for a period of time and sending government employees to work in industry and academia on the condition of their return would help foster relationships and build skills.
@@ -162,19 +168,19 @@ To be effective in reaching the system goals, each of these avenues would need t
 # Common elements
 
 ## Overlap
-Idealy, the different avenues described above will feed each other and expand the total pool of people engaged rather than canabilising the same pool. In particular, the first three avenues which all entail regular events could overlap in the following manner:
+Ideally, the different avenues described above will feed each other and expand the total pool of people engaged rather than canabilising the same pool. In particular, the first three avenues which all entail regular events could overlap in the following manner:
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE, results='hide'}
 library(VennDiagram)
 
 grid.newpage()
-draw.triple.venn(area1 = 80, area2 = 15, area3 = 30, n12 = 11, n23 = 4, n13 = 15, 
+draw.triple.venn(area1 = 50, area2 = 15, area3 = 20, n12 = 11, n23 = 4, n13 = 8, 
     n123 = 1, category = c("Colloquia", "Reading group", "Technical group"), lty = "blank", 
     fill = c("skyblue", "pink1", "mediumorchid"))
 ```
 
 ## Return on investmement
-The avenues above include notes on their cost but this should be viewed in the context of the returns they will provide to the health system in South Australia from savings and increased productivity. Potential savings include the budget that is currently spent on consultants for data related products and services. Some procurmement that could be avoided by having staff capable of achieving these ends include:
+The avenues above include notes on their cost but this should be viewed in the context of the returns they will provide to the health system in South Australia from savings and increased productivity. Potential savings include the budget that is currently spent on consultants for data related products and services. Some procurement that could be avoided by having staff capable of achieving these ends include:
 
 | Reference |	Contract Title	| Start Date	| Expiry Date	| Total Cost |
 | ------------- |---------------| ------------- |---------------| ------------------|
@@ -203,17 +209,17 @@ From all of this, one feature that could (and should) become valued is employees
 
 * Additional on the job training for staff.
 
-* Feedback on the work of our staff from the best technology developers inthe world.
+* Feedback on the work of our staff from the best technology developers in the world.
 
 * Employees pushed to create better technology.
 
-* Credibility of the South Austraian health system as a serious leader in health analytics.
+* Credibility of the South Australian health system as a serious leader in health analytics.
 
-To these ends, staff should be rewarded for developing or contributing to technology that others can use. Some of this technology, such as corporate [ggplot themes](https://rpubs.com/mclaire19/ggplot2-custom-themes) would be for others within the SA Health system to use. Others, such as new ways of [plotting network diagrams](https://github.com/thomasp85/tidygraph/issues/128) would be of benefit to others outside the imediate system. 
+To these ends, staff should be rewarded for developing or contributing to technology that others can use. Some of this technology, such as corporate [ggplot themes](https://rpubs.com/mclaire19/ggplot2-custom-themes) would be for others within the SA Health system to use. Others, such as new ways of [plotting network diagrams](https://github.com/thomasp85/tidygraph/issues/128) would be of benefit to others outside the immediate system. 
 
 ### What the system gains
 
-The deficiancies of quantitative skills at the appropriate levels in the South Australian health system may be similar to those found in the Australian Public Service in the 2019 [review](https://pmc.gov.au/sites/default/files/publications/independent-review-aps.pdf) of the APS. Importantly, this review proposed the following:
+The deficiencies of quantitative skills at the appropriate levels in the South Australian health system may be similar to those found in the Australian Public Service in the 2019 [review](https://pmc.gov.au/sites/default/files/publications/independent-review-aps.pdf) of the APS. Importantly, this review proposed the following:
 
 > **Recommendation 14**
 
@@ -228,10 +234,57 @@ A hallmark of utilising technology efficiently is to reduce duplication of effor
 ## Code of conduct
 It is imperative for communities of practice such as these to have well defined and agreed to codes of conduct. Tina Hardin in the CEIH has begun work on a code of conduct for this purpose.
  
-#Next steps
-1.	The value recognised
-Relevant stakeholders need to recognise the value of a shared CoP and to commit funds and the time of their staff to these avenues.
-2.	Avenues selected
-Some or all of the above avenues need to be selected.
-3.	Coordination established
-By their definition, CoPs are not imposed by a hierarchy. They are self starting and self sustaining. This necessarily involved some members investing more time than others and does not remove the need for clear governance frameworks. One or more current data professionals will need to take on the coordination of the CoPs and have this workload recognised by their employer.
+# The Proposal
+
+## Phase 1
+The proposal is that three avenues be started in February 2021. These will include:
+
+* A colloquia
+
+* A technical skills group
+
+* An expert reading group
+
+These will be funded to run for 11 months to the end of 2021. Experimentation with the format, frequency and people will be encouraged during this year. An evaluation in November 2021 will decide on the longer term implementation of these avenues.
+
+The starting configuration will be:
+
+```{r, include=FALSE}
+colloquia_attendees <- 50
+colloquia_unit_cost <- 2
+colloquia_meetings <- 11
+
+tech_attendees <- 20
+tech_unit_cost <- 0
+tech_meetings <- 50
+
+read_attendees <- 15
+read_unit_cost <- 50
+read_meetings <- 11
+```
+
+
+| Avenue |	Frequency	| Attendees	| Cost per meeting (not including staff time)	| Cost per year |
+| ------------- |---------------| ------------- |---------------| ------------------|
+| Colloqia | Monthly | `r colloquia_attendees` | $`r colloquia_attendees * colloquia_unit_cost`	| $`r colloquia_attendees * colloquia_unit_cost * colloquia_meetings` |
+| Technical skills | Weekly | `r tech_attendees` | $`r tech_attendees * tech_unit_cost`	| $`r tech_attendees * tech_unit_cost * tech_meetings` |
+| Reading group | Monthly | `r read_attendees` | $`r read_attendees * read_unit_cost`	| $`r read_attendees * read_unit_cost * read_meetings` |
+
+### Action to take
+
+Each of the three avenues has specific detailed formats that are accessed here ( [colloquia](https://github.com/ofchurches/HARC_Development/blob/main/seminar.md), [technical](https://github.com/ofchurches/HARC_Development/blob/main/technical.md), [reading](https://github.com/ofchurches/HARC_Development/blob/main/reading.md)). Actions to be achieved are logged as [issues](https://github.com/ofchurches/HARC_Development/issues) in this repository.
+
+## Phase 2
+It is further proposed that the other four avenues be implemented in July 2021. These will include:
+
+* Access to resources and tools
+
+* Formal training
+
+* Secondments
+
+* Hiring practices
+
+### Action to take
+
+Each of these will require liaising with human resources and information technology management to facilitate. This process will begin in February 2021 with actions to be achieved logged as [issues](https://github.com/ofchurches/HARC_Development/issues) on this repository.
