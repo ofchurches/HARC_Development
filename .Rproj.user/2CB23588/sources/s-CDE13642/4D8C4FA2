@@ -1,21 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1604883277940.000,
+    "created" : 1605064040736.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4023757408",
-    "id" : "76BCC49B",
-    "lastKnownWriteTime" : 1605060694,
-    "last_content_update" : 1605060694047,
+    "hash" : "2295974362",
+    "id" : "4D8C4FA2",
+    "lastKnownWriteTime" : 1605064864,
+    "last_content_update" : 1605064864846,
     "path" : "~/GitHub/HARC_Development/brief_2/CoP_for_data_in_SA_MD.Rmd",
     "project_path" : "brief_2/CoP_for_data_in_SA_MD.Rmd",
     "properties" : {
-        "cursorPosition" : "7,4",
+        "cursorPosition" : "6,37",
         "ignored_words" : "visualisation,CoP,McAlindon,Hindmarsh,Lukah,AIEthics,Mackay,Bergstrom,Jevin,Underprepare,Kunreuther,Spiegelhalter,Cheng,Oreskes,Whitby,Lewrick,analytical,TidyTuesday,dataset,Adeliade,specialisation,GentleR,UniSA,GitHub,hackathon,visulaisation,eg,analytics,realise,CoC,recognised,recognise,CoPs,canabilising,incentivise,utilising,colloquia,Colloqia\n",
         "scrollLine" : "0",
-        "source_window_id" : "wp96hkqfv9a2p"
+        "source_window_id" : ""
     },
     "relative_order" : 1,
     "source_on_save" : false,

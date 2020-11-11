@@ -4,23 +4,8 @@ A Community of Practice for Data Professionals: Brief 2
 -   [What do we need?](#what-do-we-need)
 -   [Background](#background)
 -   [Avenues and what already exists](#avenues-and-what-already-exists)
-    -   [Colloquia](#colloquia)
-    -   [Expert reading group](#expert-reading-group)
-    -   [Technical skills practice](#technical-skills-practice)
-    -   [Access to resources and tools](#access-to-resources-and-tools)
-    -   [Formal training](#formal-training)
-    -   [Secondments](#secondments)
-    -   [Hiring practices](#hiring-practices)
 -   [Common elements](#common-elements)
-    -   [Overlap](#overlap)
-    -   [Return on investmement](#return-on-investmement)
-    -   [The right people](#the-right-people)
-    -   [Managers need to help](#managers-need-to-help)
-    -   [Work needs to be valued](#work-needs-to-be-valued)
-    -   [Code of conduct](#code-of-conduct)
 -   [The Proposal](#the-proposal)
-    -   [Phase 1](#phase-1)
-    -   [Phase 2](#phase-2)
 
 ![](htsa_logo_20.png)
 
@@ -49,13 +34,9 @@ A sharing of completed work that focuses on the technical components in which in
 In this space already:
 
 -   The Adelaide University Faculty of Engineering, Computer and Mathematical Sciences hosts regular [colloquia.](https://ecms.adelaide.edu.au/events/list/2020/all)
-
 -   R Users Adelaide annual [meet-up](https://www.meetup.com/en-AU/Adelaide-R-Users/).
-
 -   The CEIH and SAAS have hosted a data visualisation [expo](https://www.eventbrite.com.au/e/data-visualisation-expo-tickets-104931753700).
-
 -   CALHN runs a monthly CoP that frequently invites internal presentations coordinated by Andrew McAlindon.
-
 -   The [HPC](https://www.hpcsa.com.au/) coordinates the DAGS group that meet monthly and invites internal and external presentations coordinated by Jane Austin.
 
 ### Specifics
@@ -65,9 +46,7 @@ In this space already:
 A suitable venue has the following characteristics:
 
 -   Central location to lower the friction associated with attending.
-
 -   No usage cost would be preferred.
-
 -   A degree of grandeur and solemnity would add gravitas to the event.
 
 One venue that would fulfill these characteristics is the Minister's Board Room at Hindmarsh Square.
@@ -92,7 +71,7 @@ A reading of a serious text on an aspect of data analysis, software design, chan
 In this space already:
 
 -   Owen Churches convenes a monthly book club on [AI ethics](https://github.com/ofchurches/AI_ethics_bookclub/wiki).
--   The [NHS](https://nhsrcommunity.com/blog/nhs-r-book-club/) runs a book club.
+-   The [NHS](https://nhsrcommunity.com/blog/nhs-r-book-club/) runs a data book club.
 
 ### Specifics
 
@@ -156,6 +135,10 @@ What we read would be a reflection of the aims and the capacity of the group. Pr
 <td>The Design Thinking Playbook: Mindful Digital Transformation of Teams, Products, Services, Businesses and Ecosystems</td>
 <td>Michael Lewrick</td>
 </tr>
+<tr class="odd">
+<td>Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think</td>
+<td>Hans Rosling, Ola Rosling, Anna Rosling Rönnlund</td>
+</tr>
 </tbody>
 </table>
 
@@ -214,9 +197,7 @@ To some extent, formal training is helpful.
 In this space already:
 
 -   The CEIH paid for a large number of data professionals in the the South Australia health system to undergo the [CHIA](https://www.healthinformaticscertification.com/) exam.
-
 -   The HARC pays for the Data Fellows to attend some training that is chosen by each fellow individually.
-
 -   There are numerous paid and free data skills courses available (eg. [Coursera](https://www.coursera.org/specializations/data-science-foundations-r)).
 
 ### Specifics
@@ -224,7 +205,6 @@ In this space already:
 This will be perceived by some as an indulgence or a boondoggle for some to avoid doing work. However, structures should be put in place to make a clear return on investment for the health system in South Australia. These could include:
 
 -   If the exams are not taken the learner could be asked to return the money.
-
 -   The choice of training could be decided by managers with experience of each learner's skill base and the needs of the health system.
 
 Secondments
@@ -353,11 +333,8 @@ The involvement of everyone in these avenues would have to occur in paid work ti
 From all of this, one feature that could (and should) become valued is employees [contributing to open source](https://opensource.com/business/13/2/why-company-contribute-open-source) technology. The benefits to the organisation of having employees contribute to open source technology include:
 
 -   Additional on the job training for staff.
-
 -   Feedback on the work of our staff from the best technology developers in the world.
-
 -   Employees pushed to create better technology.
-
 -   Credibility of the South Australian health system as a serious leader in health analytics.
 
 To these ends, staff should be rewarded for developing or contributing to technology that others can use. Some of this technology, such as corporate [ggplot themes](https://rpubs.com/mclaire19/ggplot2-custom-themes) would be for others within the SA Health system to use. Others, such as new ways of [plotting network diagrams](https://github.com/thomasp85/tidygraph/issues/128) would be of benefit to others outside the immediate system.
@@ -390,9 +367,7 @@ Phase 1
 The proposal is that three avenues be started in February 2021. These will include:
 
 -   A colloquia
-
 -   A technical skills group
-
 -   An expert reading group
 
 These will be funded to run for 11 months to the end of 2021. Experimentation with the format, frequency and people will be encouraged during this year. An evaluation in November 2021 will decide on the longer term implementation of these avenues.
@@ -451,11 +426,8 @@ Phase 2
 It is further proposed that the other four avenues be implemented in July 2021. These will include:
 
 -   Access to resources and tools
-
 -   Formal training
-
 -   Secondments
-
 -   Hiring practices
 
 ### Action to take
