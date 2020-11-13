@@ -352,7 +352,7 @@ The starting configuration will be:
 
 ### Action to take
 
-Each of the three avenues has specific detailed formats that are accessed here ( [colloquia](https://github.com/ofchurches/HARC_Development/brief_2/seminar.md), [technical](https://github.com/ofchurches/HARC_Development/brief_2/technical.md), [reading](https://github.com/ofchurches/HARC_Development/brief_2/reading.md)). Actions to be achieved are logged as [issues](https://github.com/ofchurches/HARC_Development/issues) in this repository.
+Each of the three avenues has specific detailed formats that are accessed here ( [colloquia](https://github.com/ofchurches/HARC_Development/brief_2/seminar.md), [technical](https://github.com/ofchurches/HARC_Development/brief_2/technical.md), [reading](reading_group.md)). Actions to be achieved are logged as [issues](https://github.com/ofchurches/HARC_Development/issues) in this repository.
 
 Phase 2
 -------
