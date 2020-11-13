@@ -1,0 +1,16 @@
+---
+title: "Community of practice seminar"
+output:
+  github_document:
+      toc: true
+      toc_depth: 1
+  word_document:
+      toc: true
+      toc_depth: 1
+      reference_docx: HARC_style.docx
+---
+
+![](htsa_logo_crop.png)\
+
+
+# Seminar series

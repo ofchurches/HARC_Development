@@ -14,21 +14,20 @@ output:
 ![](htsa_logo_crop.png)\
 
 
-# What do we need?
+# What we need
 What we need in the health system in South Australia are systems that promote the continuous development of data skills by data professionals and the continuous promotion of these skills throughout the health system and the broader health analytic profession. This amounts to a goal of creating a culture that values data skills and expertise and establishes clear incentives for those with less data skills to gain more skills and for those with more skills to go further to be world leading in their field of data expertise.
 
 This goal is inconsistent with the maintenance of current systems for using data and managing data professionals. This goal is clearly a goal of change. Fast utilisation of data assets is inconsistent with analysing data in software that does not make its processes replicable. Bringing new technology to the point of use is inconsistent with software being written on individual computers that do not maintain version control. Creating long standing data driven change is inconsistent with managing data projects via email in which the feature requests are uncoupled from the solutions provided.
 
 This paper details the structures that are currently in place and the opportunities for layering novel systems that will bring this goal into reality.
 
-# Background
+# Why we need it
 The health system in South Australia employs some particularly high performing data professionals. However, there are some limitations on the current and future contribution that these professionals and their colleagues can make.
 
 ## A swiftly changing set of skills
 The best "data skills" are constantly evolving. Not long ago, knowing how to create pivot tables in Excel would have constituented serious data skills. Likewise, there will come a day when the [R](https://www.r-project.org/about.html) language for statistical computing will not be the [de facto standard](https://bookdown.org/rdpeng/rprogdatascience/) programming language for data science. To this end, data professionals and their managers need to spend a period of their regular work time updating their skills. This updating means that data professionals will know the latest approaches to their current work and their managers will know what sort of work can even be achieved.
 
 ## Skills need to be utilised
-
 As the economist Erich Zimmermann was wont to say: ["Resources are not; they become"](https://www.jstor.org/stable/4225924). In the context of data professionals in the health system in South Australia, it seems that the skills that are currently held in the system are not consistently utilised by management.Hence, these skills are not, in Zimmermann's phrasing, an asset. They are not being used and so are not given the opportunity to **become** assets. Evidence of this underutilisation of potential resources is seen in the amount of data driven work that is outsourced by the health system in South Australia. Below are a selection of contracts for data projects paid for by the health system in South Australia that may have been achievable by staff currently in the system. 
 
 | Reference |	Contract Title	| Start Date	| Expiry Date	| Total Cost |
@@ -44,7 +43,6 @@ DH040717	| Health Activity Modelling and Forecasting Services Contract ID SAH201
 Greater visibility to management of the skills held by data professionals in the health system in South Australia would help turn these abilities into resources through their use.
 
 ## Siloed skills are less valuable
-
 Data professionals in the health system in South Australia frequently work as the only data professional in a team that includes clinicians and administrators. There are several reasons why these isolated data professionals and the health system at large would benefit from regular interaction with their data professional peers.
 
 * A data asset that is made available, software that is built or documentation that is written in the service of one use case should be made available to other data professionals in the health system in South Australia to reduce the number of times that same task is done in different places.
@@ -52,7 +50,6 @@ Data professionals in the health system in South Australia frequently work as th
 * Techniques and technologies that affect the health care system in South Australia are developed by people working in government at state and federal level, private industry and academia. It would help the system to facilitate the transfer of novel approaches across these institutional divides.
 
 # Avenues for improvement and what already exists
-
 There are a number of avenues available for meeting these goals. There already exists a range of regular events in Adelaide, around Australia and internationally that could serve as models to draw from or as opportunities to engage with.
 
 ## Colloquia
@@ -81,7 +78,6 @@ Too often and it would feel like a burden but too rare and it would be forgotten
 
 #### Cost
 To some extent it would be desirable for the event to stand on its merits as a place to hear and debate the latest ideas in health bioinformatics rather than a place to nibble food and drinks. Hence, the event could prosper with a smaller budget.
-
 
 #### Invitation list
 Lukah Dykes and Owen Churches have begun drafting a list of potential speakers and people to invite. This will be updated here.
@@ -176,7 +172,6 @@ The deficiencies of quantitative skills at the appropriate levels in the South A
 If implemented in the South Australia health system, this recommendation would have the result of data professionals being able to be promoted based on their data skills rather than their managerial skills. It would make the system more likely to retain and attract data professionals by making the system competitive with the private sector. And, it would incentivise data professionals to become better data professionals. Importantly, it would make data professionals reasonably expect a return on their investment in gaining more technical skills rather than pursuing a managerial path.
 
 # Common features
-
 There are several reasons why this community of practice could not thrive or could fail to have an impact on the health system in South Australia. These can be mitigated against but can not be removed. It is worth saying at the start that this project could be so valuable that even if it does fail, it will still have been worth attempting.
 
 ## Overlap
@@ -235,8 +230,7 @@ read_meetings <- 11
 | Reading group | Monthly | `r read_attendees` | $`r read_attendees * read_unit_cost`	| $`r read_attendees * read_unit_cost * read_meetings` |
 
 ### Action to take
-
-Each of the three avenues has specific detailed formats that are accessed here ( [colloquia](https://github.com/ofchurches/HARC_Development/brief_2/seminar.md), [technical](https://github.com/ofchurches/HARC_Development/brief_2/technical.md), [reading](reading_group.md)). Actions to be achieved are logged as [issues](https://github.com/ofchurches/HARC_Development/issues) in this repository.
+Each of the three avenues has specific detailed formats that are accessed here ( [colloquia](seminar.md), [technical](technical.md), [reading](reading_group.md)). Actions to be achieved are logged as [issues](https://github.com/ofchurches/HARC_Development/issues) in this repository.
 
 ## Phase 2
 It is further proposed that the other four avenues be implemented in July 2021. These will include:
@@ -247,5 +241,4 @@ It is further proposed that the other four avenues be implemented in July 2021. 
 * Hiring practices
 
 ### Action to take
-
 Each of these will require liaising with human resources and information technology management to facilitate. This process will begin in February 2021 with actions to be achieved logged as [issues](https://github.com/ofchurches/HARC_Development/issues) on this repository.

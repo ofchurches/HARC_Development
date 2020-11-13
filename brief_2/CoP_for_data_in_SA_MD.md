@@ -1,16 +1,16 @@
 A Community of Practice for Data Professionals: Brief 2
 ================
 
--   [What do we need?](#what-do-we-need)
--   [Background](#background)
+-   [What we need](#what-we-need)
+-   [Why we need it](#why-we-need-it)
 -   [Avenues for improvement and what already exists](#avenues-for-improvement-and-what-already-exists)
 -   [Common features](#common-features)
 -   [The Proposal](#the-proposal)
 
 ![](htsa_logo_crop.png)
 
-What do we need?
-================
+What we need
+============
 
 What we need in the health system in South Australia are systems that promote the continuous development of data skills by data professionals and the continuous promotion of these skills throughout the health system and the broader health analytic profession. This amounts to a goal of creating a culture that values data skills and expertise and establishes clear incentives for those with less data skills to gain more skills and for those with more skills to go further to be world leading in their field of data expertise.
 
@@ -18,8 +18,8 @@ This goal is inconsistent with the maintenance of current systems for using data
 
 This paper details the structures that are currently in place and the opportunities for layering novel systems that will bring this goal into reality.
 
-Background
-==========
+Why we need it
+==============
 
 The health system in South Australia employs some particularly high performing data professionals. However, there are some limitations on the current and future contribution that these professionals and their colleagues can make.
 
@@ -352,7 +352,7 @@ The starting configuration will be:
 
 ### Action to take
 
-Each of the three avenues has specific detailed formats that are accessed here ( [colloquia](https://github.com/ofchurches/HARC_Development/brief_2/seminar.md), [technical](https://github.com/ofchurches/HARC_Development/brief_2/technical.md), [reading](reading_group.md)). Actions to be achieved are logged as [issues](https://github.com/ofchurches/HARC_Development/issues) in this repository.
+Each of the three avenues has specific detailed formats that are accessed here ( [colloquia](seminar.md), [technical](technical.md), [reading](reading_group.md)). Actions to be achieved are logged as [issues](https://github.com/ofchurches/HARC_Development/issues) in this repository.
 
 Phase 2
 -------
