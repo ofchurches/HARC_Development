@@ -4,7 +4,7 @@ A Community of Practice for Data Professionals: Brief 2
 -   [What do we need?](#what-do-we-need)
 -   [Background](#background)
 -   [Avenues for improvement and what already exists](#avenues-for-improvement-and-what-already-exists)
--   [Common risks](#common-risks)
+-   [Common features](#common-features)
 -   [The Proposal](#the-proposal)
 
 ![](htsa_logo_crop.png)
@@ -14,9 +14,9 @@ What do we need?
 
 What we need in the health system in South Australia are systems that promote the continuous development of data skills by data professionals and the continuous promotion of these skills throughout the health system and the broader health analytic profession. This amounts to a goal of creating a culture that values data skills and expertise and establishes clear incentives for those with less data skills to gain more skills and for those with more skills to go further to be world leading in their field of data expertise.
 
-This goal is inconsistent with the maintenance of current systems for using data and managing data professionals. This goal is clearly a goal of change. Fast utilisation of data assets is inconsistent with analysing data in software that does not make its processes replicable. Bringing new technology to the point of use is inconsistent with software being written on individaul computers that do not maintain version control. Creating long standing data driven change is inconsistent with managing data projects via email in which the feature requests are uncoupled from the solutions provided.
+This goal is inconsistent with the maintenance of current systems for using data and managing data professionals. This goal is clearly a goal of change. Fast utilisation of data assets is inconsistent with analysing data in software that does not make its processes replicable. Bringing new technology to the point of use is inconsistent with software being written on individual computers that do not maintain version control. Creating long standing data driven change is inconsistent with managing data projects via email in which the feature requests are uncoupled from the solutions provided.
 
-This paper details the structures that are currently in place and the pportunities for layering novel systems that will bring this goal into reality.
+This paper details the structures that are currently in place and the opportunities for layering novel systems that will bring this goal into reality.
 
 Background
 ==========
@@ -112,7 +112,7 @@ Data professionals in the health system in South Australia frequently work as th
 
 -   A data asset that is made available, software that is built or documentation that is written in the service of one use case should be made available to other data professionals in the health system in South Australia to reduce the number of times that same task is done in different places.
 
--   Techniques and technologies that affect the health care system in South Australia are developed by people working in government at state and federal level, private industry and academia. It would help the system to fascilitate the trasfer of novel approaches across these institutional divides.
+-   Techniques and technologies that affect the health care system in South Australia are developed by people working in government at state and federal level, private industry and academia. It would help the system to facilitate the transfer of novel approaches across these institutional divides.
 
 Avenues for improvement and what already exists
 ===============================================
@@ -173,66 +173,7 @@ Both the NHS group and the AI ethics group meet online and this works particular
 
 #### Texts
 
-What we read would be a reflection of the aims and the capacity of the group. Professor Mark Mackay has suggested that this be a vehicle to immerse people who are not currently experts in a more quantitative way of thinking. This would be in keeping with the NHM book club. Hence, books that could be read could include:
-
-<table style="width:93%;">
-<colgroup>
-<col width="55%" />
-<col width="37%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Book</th>
-<th>Author</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Calling Bullshit: The Art of Skepticism in a Data-Driven World</td>
-<td>Carl T. Bergstrom Jevin D. West</td>
-</tr>
-<tr class="even">
-<td>How To Make the World Add Up</td>
-<td>Tim Hartford</td>
-</tr>
-<tr class="odd">
-<td>The Ostrich Paradox Why We Underprepare for Disasters</td>
-<td>Robert Meyer and Howard Kunreuther</td>
-</tr>
-<tr class="even">
-<td>The Art of Statistics: Learning from Data</td>
-<td>David Spiegelhalter</td>
-</tr>
-<tr class="odd">
-<td>The Art of Logic in an Illogical World</td>
-<td>Eugenia Cheng</td>
-</tr>
-<tr class="even">
-<td>Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to Global Warming</td>
-<td>Naomi Oreskes, Erik M. Conway</td>
-</tr>
-<tr class="odd">
-<td>The Signal and the Noise: The Art and Science of Prediction</td>
-<td>Nate Silver</td>
-</tr>
-<tr class="even">
-<td>Standards: Recipes for Reality</td>
-<td>Lawrence Busch</td>
-</tr>
-<tr class="odd">
-<td>The Sum of the People: How the Census Has Shaped Nations, from the Ancient World to the Modern Age</td>
-<td>Andrew Whitby</td>
-</tr>
-<tr class="even">
-<td>The Design Thinking Playbook: Mindful Digital Transformation of Teams, Products, Services, Businesses and Ecosystems</td>
-<td>Michael Lewrick</td>
-</tr>
-<tr class="odd">
-<td>Factfulness: Ten Reasons We're Wrong About the World and Why Things Are Better Than You Think</td>
-<td>Hans Rosling, Ola Rosling, Anna Rosling Rönnlund</td>
-</tr>
-</tbody>
-</table>
+The specific texts that will be read and discussed will be a function of the particular theme decided on.
 
 #### Cost
 
@@ -324,8 +265,8 @@ The deficiencies of quantitative skills at the appropriate levels in the South A
 
 If implemented in the South Australia health system, this recommendation would have the result of data professionals being able to be promoted based on their data skills rather than their managerial skills. It would make the system more likely to retain and attract data professionals by making the system competitive with the private sector. And, it would incentivise data professionals to become better data professionals. Importantly, it would make data professionals reasonably expect a return on their investment in gaining more technical skills rather than pursuing a managerial path.
 
-Common risks
-============
+Common features
+===============
 
 There are several reasons why this community of practice could not thrive or could fail to have an impact on the health system in South Australia. These can be mitigated against but can not be removed. It is worth saying at the start that this project could be so valuable that even if it does fail, it will still have been worth attempting.
 
@@ -411,7 +352,7 @@ The starting configuration will be:
 
 ### Action to take
 
-Each of the three avenues has specific detailed formats that are accessed here ( [colloquia](https://github.com/ofchurches/HARC_Development/blob/main/seminar.md), [technical](https://github.com/ofchurches/HARC_Development/blob/main/technical.md), [reading](https://github.com/ofchurches/HARC_Development/blob/main/reading.md)). Actions to be achieved are logged as [issues](https://github.com/ofchurches/HARC_Development/issues) in this repository.
+Each of the three avenues has specific detailed formats that are accessed here ( [colloquia](https://github.com/ofchurches/HARC_Development/brief_2/seminar.md), [technical](https://github.com/ofchurches/HARC_Development/brief_2/technical.md), [reading](https://github.com/ofchurches/HARC_Development/brief_2/reading.md)). Actions to be achieved are logged as [issues](https://github.com/ofchurches/HARC_Development/issues) in this repository.
 
 Phase 2
 -------

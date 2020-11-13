@@ -1,0 +1,37 @@
+---
+title: "Community of practice reading group"
+output:
+  github_document:
+      toc: true
+      toc_depth: 1
+  word_document:
+      toc: true
+      toc_depth: 1
+      reference_docx: HARC_style.docx
+---
+
+![](htsa_logo_crop.png)\
+
+
+# Quantitative thinking
+
+What we read would be a reflection of the aims and the capacity of the group. Professor Mark Mackay has suggested that this be a vehicle to immerse people who are not currently experts in a more quantitative way of thinking. This would be in keeping with the NHM book club.
+
+
+# Provisional reading list
+
+Hence, books that could be read could include:
+
+| Book          | Author        |
+| --------------------------------------- |--------------------------|
+| Calling Bullshit: The Art of Skepticism in a Data-Driven World | Carl T. Bergstrom Jevin D. West |
+| How To Make the World Add Up | Tim Hartford |
+| The Ostrich Paradox Why We Underprepare for Disasters | Robert Meyer and Howard Kunreuther |
+| The Art of Statistics: Learning from Data | David Spiegelhalter |
+| The Art of Logic in an Illogical World | Eugenia Cheng |
+| Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to Global Warming | Naomi Oreskes, Erik M. Conway |
+| The Signal and the Noise: The Art and Science of Prediction | Nate Silver |
+| Standards: Recipes for Reality | Lawrence Busch |
+| The Sum of the People: How the Census Has Shaped Nations, from the Ancient World to the Modern Age | Andrew Whitby |
+| The Design Thinking Playbook: Mindful Digital Transformation of Teams, Products, Services, Businesses and Ecosystems| Michael Lewrick |
+| Factfulness: Ten Reasons We're Wrong About the World and Why Things Are Better Than You Think | Hans Rosling, Ola Rosling, Anna Rosling Rönnlund | 
