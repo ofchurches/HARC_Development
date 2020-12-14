@@ -22,7 +22,8 @@ This will depend in part on the pathways we choose.
 # Pathways
 Four sub-avenues could co-exist
 
-1. A weekly meetup in which participants worked on the latest [TidyTuesday](https://github.com/rfordatascience/tidytuesday) data set, shared their ideas, their code and their finished product. This would allow people to share analytic products without having to get approval to share work related data and insights.
+1. A weekly meetup in which participants worked on the latest [TidyTuesday](https://github.com/rfordatascience/tidytuesday) data set, shared their ideas, their code and their finished product. This would allow people to share analytic products without having to get approval to share work related data and insights. SIde benefits would include:
+* Developing skills in using GitHub to maintain code
 
 2. A weekly meet up learning together group that could move sequentially through:
 * [R4DS](https://r4ds.had.co.nz/)
