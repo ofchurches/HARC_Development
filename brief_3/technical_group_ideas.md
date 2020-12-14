@@ -33,6 +33,9 @@ Then working through:
 * [Mastering Shiny](https://mastering-shiny.org/)
 * [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 
+Or enrolling together and supporting each other in external training such as
+* [Coursera Data Science Specialization in R](https://www.coursera.org/specializations/jhu-data-science)
+
 3. Specific tutorial that could be condiucted live and live on-line for tasks that are particularly relevant to the health system in South Australia:
 * Using [RMarkdown](https://rmarkdown.rstudio.com/articles_intro.html) to automate reporting
 * Accessing [databases](https://db.rstudio.com/getting-started/database-queries/) from R
