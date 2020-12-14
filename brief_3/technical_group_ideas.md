@@ -22,12 +22,12 @@ This will depend in part on the pathways we choose.
 # Pathways
 Four sub-avenues could co-exist
 
-1. A weekly meetup in which participants worked on the latest [TidyTuesday](https://github.com/rfordatascience/tidytuesday) data set, shared their ideas, their code and their finished product. This would allow people to share analytic products without having to get approval to share work related data and insights. SIde benefits would include:
-* Developing skills in using GitHub to maintain code
+1. A weekly meetup in which participants worked on the latest [TidyTuesday](https://github.com/rfordatascience/tidytuesday) data set, shared their ideas, their code and their finished product. This would allow people to share analytic products without having to get approval to share work related data and insights. Mechanisms to fascilitate this could include:
+* Real time screen sharing for designing and creating the visualisations using [Codebuddies](https://codebuddies.org/)
+* Developing skills in using [GitHub](https://github.com/) to maintain code
 
 2. A weekly meet up learning together group that could move sequentially through:
 * [R4DS](https://r4ds.had.co.nz/)
-
 Then working through:
 * [Agile Data Science with R](https://edwinth.github.io/ADSwR/)
 * [Advanced R](https://adv-r.hadley.nz/)
