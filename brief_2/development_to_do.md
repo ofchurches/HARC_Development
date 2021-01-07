@@ -65,6 +65,7 @@ A Community of Practice for Data Professionals: To do list
 
 1.  Register of expertise
 2.  Technical tools blog (RMarkdown for reports, reveal.js for slides, GitHub for collaboration)
+3.  Wiki of solutions to common problems
 
 # February 2022
 

@@ -61,6 +61,7 @@ output:
 ## Online building
 1. Register of expertise
 2. Technical tools blog (RMarkdown for reports, reveal.js for slides, GitHub for collaboration)
+3. Wiki of solutions to common problems
 
 # February 2022
 ## Weekly blookclubs with bookdown archives
