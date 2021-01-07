@@ -6,7 +6,7 @@ Community of practice technical group
 The focus of this group will be *data visulaisation*. This is largely because its what many of us want (but not necessarily what we need). The intended outcomes are:
 
 1. Additional skills in R in general and data visualisation in particular will be gained.
-2. Networking between data professionals in health in South Australia will be imporved.
+2. Networking between data professionals in health in South Australia will be improved.
 3. Skills and successes with data will be highlighted.
 
 # In this space already
@@ -37,11 +37,11 @@ Then working through:
 Or enrolling together and supporting each other in external training such as
 * [Coursera Data Science Specialization in R](https://www.coursera.org/specializations/jhu-data-science)
 
-3. Specific tutorial that could be condiucted live and live on-line for tasks that are particularly relevant to the health system in South Australia:
+3. Specific tutorial that could be conducted live and live on-line for tasks that are particularly relevant to the health system in South Australia:
 * Using [RMarkdown](https://rmarkdown.rstudio.com/articles_intro.html) to automate reporting
 * Accessing [databases](https://db.rstudio.com/getting-started/database-queries/) from R
 
 4. A Slack workspace with channels for each of the above that acts as an ongoing support community answering technical question.
 
 # Personel
-Greer Humphrey and Owen Churches have begun work on a TidyTuesday group to design together and create a visulaisation and analytic product based on a novel data set each week.
+Greer Humphrey and Owen Churches have begun work on a TidyTuesday group to design together and create a visualisation and analytic product based on a novel data set each week.
