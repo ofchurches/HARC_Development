@@ -1,0 +1,27 @@
+
+# General
+*~
+*.log
+tmp
+dump
+
+# R
+*.Rproj.user
+*.Rproj
+*.RData
+*.Rhistory
+.Rproj.user
+
+# IDEA
+/.idea/*
+/logs/*
+target/
+
+# Eclipse
+.settings
+.cache
+.project
+.classpath
+.scala_dependencies
+bin
+
