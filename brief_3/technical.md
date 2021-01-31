@@ -5,9 +5,10 @@ Community of practice technical group
 
 The focus of this group will be *data visualisation*. This is largely because its what many of us want (but not necessarily what we need). The intended outcomes are:
 
-1. Additional skills in R in general and data visualisation in particular will be gained.
-2. Networking between data professionals in health in South Australia will be improved.
-3. Skills and successes with data will be highlighted.
+1. Developing ability with R in general.
+2. Developing ability with data visualisation.
+2. Networking between South Australian health data professionals.
+3. Skills and successes with health data will be highlighted.
 
 # In this space already
 
